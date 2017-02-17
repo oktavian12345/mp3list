@@ -1,0 +1,372 @@
+table {
+	border:0;
+	border-width:0;
+	border-collapse:collapse;
+	color: #999999;
+}
+body { 
+	line-height:15pt;
+	font-family: verdana;
+	background-image:url('https://s.geniee.jp/ssp/v2/images/common/bgFootPattern_01.gif');
+	background-position: fixed;
+	font-size: 11px;
+	color: #999999;
+	padding:0; margin:0;
+}
+.headline { font:bold 15pt 'Hammersmith One'; margin:0 0 3px 0; color:#EEE000;}
+a:link, a:visited { text-decoration: none; color: #999999; }
+a:hover { color: #0092F4; }
+.b {
+	margin: 0;
+	border-width:0 1px;
+	border-style:solid;
+	border-color:#222;
+	width: 998px;
+}
+
+.b .one {
+	background: #111111;
+	height:15px;
+	border-bottom:1px solid #000;
+	padding:8px 20px;
+}
+.b .b1 {
+	background-image: url(http://chef.sextgem.com/css/stafa/bgheader.gif);
+	background-repeat:repeat-x;
+	height: 90px;
+	padding:5px;
+	border-top:1px solid #222222;
+	border-bottom: 1px solid #191918;
+}
+#front div {
+	padding: 3px;
+	border-bottom:1px solid #222;
+}
+
+.b .img {
+	margin: 5px 0 0 10px;
+	text-align: center;
+	font:normal 15px 'Hammersmith One';
+	letter-spacing:1px;
+	color: #FFF;
+	text-shadow: 1px 1px #111;
+}
+.b .ads {
+	float: right;
+}
+.b .b2 {
+	background-image:url(http://chef.sextgem.com/css/stafa/bgmenu.gif);
+	background-repeat: repeat-x;
+	height: 29px;
+	border-top:1px solid #666666;
+	border-bottom:1px solid #333333;
+	}	
+.b2 ul {
+	list-style:none; margin:0; padding:0;
+}
+.b2 li {
+	margin:0; padding:0; float:left; padding: 5px 15px 4px 15px;
+}
+.b2 a {
+	text-shadow:1px 1px #000;
+	text-decoration: none;
+}
+.b2 a li {
+	text-decoration: none;
+}
+.b2 a:hover li {
+	text-decoration: none;
+	background: #222;
+	color: #87B205;
+}
+.b2 form {
+	padding:0; margin:0;
+}
+.b2 input {
+	font: bold 10px verdana;
+}
+.b2 .find {
+	margin:3px 3px 0 0;
+	float:right;
+}
+
+.alb { background: #111; }
+.alb ul {
+	margin:0; padding:0; list-style:none;
+}
+.alb li {
+	float: left; width:153px;
+	padding:5px;
+	height:150px;
+	font-size: 7pt;
+	text-align: center;
+}
+.alb li span {
+	color:#F71D1D;
+	font-size:11px;
+	font-weight: bold;
+}
+.alb li img {
+	width:100px; height:100px;
+}
+
+h2 {
+	font: normal 16px 'Hammersmith One';
+	color: #A2C500;
+	padding:0 0 5px 0;
+	margin:0;
+	letter-spacing: 1px;
+}
+
+.cw {
+	text-align: left;
+	padding: 10px;
+	background: #0a0a0a;
+}
+.box2 { border: 1px solid #222; padding: 2px; background-color:#040505; margin:0 0 10px 0; }
+.box { 
+	border:1px solid #1C1C1C;
+	background-color: #040505;
+	padding: 12px 10px;
+	margin:0 0 10px 0;
+}
+
+.box ul { padding:0 13px;margin:0; }
+.box li { color: #A2C500; padding: 2px 0;}
+
+.cw h3 {
+	margin: 0; padding:0 0 8px 0;
+	font: normal 15px 'Hammersmith One';
+	text-transform: uppercase;
+	color: #ff4400;
+}
+
+.head5 {
+        margin: 0; padding:0 0 6px 2px;
+        font: normal 13px 'Hammersmith One';
+	letter-spacing:1px;
+        color: #ff9900;
+}
+.head4 {
+	border-bottom:2px solid #222;
+	margin:0;
+	font: bold 15px 'Hammersmith One';
+	padding-bottom: 5px;
+	letter-spacing: 1px;
+	color: #017DCF;
+}
+.key {
+	color: #A2C500;
+	padding:1px;
+	font-size:8pt;
+	background-color: #040505;
+	border-bottom:1px solid #181818;
+}
+
+.colr:link, .colr:visited {
+	text-decoration: none;
+}
+.colr:hover{
+	color: #8BB40E;
+	}
+.colr1:link, .colr1:visited {
+	text-shadow:1px 1px #000;
+	text-decoration: none;
+	font-size:8pt;
+}
+.colr1:hover {
+	color: #999933;
+	}
+
+.cw .desc {
+	margin:2px 0 2px 0;
+	font-size:10px;
+	font-weight:normal;
+	}
+
+.bulet { margin-bottom:2px; }
+
+#result th {
+	border-bottom:2px solid #99CC00;
+	}
+#result .tdc {
+	padding: 2px;
+	border-bottom:1px dotted #222;
+}
+
+#result td {
+	padding: 3px;
+	border-bottom:1px solid #111;
+}
+
+
+#result .tdc:hover {
+	background:#222;
+}
+#result .title {
+	font-size:12px;
+	color:#ccc;
+	margin:0;
+}
+.def { color:#aaa; }
+.blue { color: #017DCF; }
+.lightgreen { color:#A2C500; }
+.orange {
+	color: #FF6633;
+}
+.oldgreen {
+	color: #81812C;
+}
+#result a:link {
+	color:#0293F3;
+	text-decoration:none;
+}
+#result a:hover {
+	color: #CBD711;
+	text-decoration:none;
+}
+
+#result .a:link {
+	color: #999999;
+	font-weight:normal;
+	font-size:8pt;
+        text-decoration:none;
+}
+#result .a:hover {
+	color: #FF6633;
+        text-decoration:none;
+}
+#result .l {
+	padding:2px;
+	border-bottom: 1px solid #111;
+}
+.little-left {
+	border:1px solid #1C1C1C;
+}
+.little-left .sisi {
+	padding:5px;background:#040505;
+}
+.little-left .isi1 {
+	padding:3px; background:#111;
+}
+.key1 {
+	border-bottom:1px solid #050505;
+	border-top:1px solid #222;
+	padding:2px 2px;
+}
+
+.line2 { 
+	padding:2px 2px;
+	border-top:1px solid #222;
+}
+.line1 { padding:2px 2px;
+	border-bottom:1px solid #050505;
+}
+.little-left .title {
+	padding: 5px 6px;
+        font: normal 13px 'Hammersmith One';
+        letter-spacing:1px;
+        color: #ff9900;
+	background:#111111;
+}
+
+.r {
+	padding: 0 0 0 5px;
+	float: left;
+	width: 300px;
+}
+
+
+#save {
+	color: #ccc;
+	padding: 10px;
+	line-height:15px;
+}
+
+.save:link, .save:visited {
+	font-family: 'Hammersmith One';
+	font-size: 12pt;
+	text-shadow:1px 1px #000;
+	color: #ff9900;
+	text-decoration: none;
+}
+.save:hover {
+	color:#EE4E00;
+}
+
+
+.l-o {
+	padding:3px;
+	border-bottom:1px solid #111;
+}
+
+.l-o a:link {
+	font-size:7pt;
+	text-decoration: none;
+}
+
+.l-o a:visited {
+	text-decoration: none;
+}
+
+.l-o a:hover {
+	color: #FF3399;
+}
+
+
+.line {
+	border-bottom:2px solid #C10202;
+}
+
+
+.cls { clear: both; }
+
+.end1 {
+	border-top:1px solid #151515;
+	border-bottom: 1px solid #333;
+        background : #222;
+	height:10px;
+}
+.end {
+        background : #000;
+	border-top:1px solid #111;
+	text-align:center;
+	padding:20px;
+	color: #ccc;
+	font-weight: bold;
+}
+
+.bihov li { background: #050505; }
+.bihov ul { list-style:none; margin:0;padding:0;}
+
+.bihov a li {
+        padding:3px 3px 3px 5px;
+        font: normal 13px verdana;
+        text-decoration: none;
+        color: #ccc;
+        border-bottom:1px solid #222;
+}
+.bihov a:hover li {
+        text-decoration: none;
+        background: #111;
+	color: #0091F1;
+}
+
+.lihov { background: #111; border:1px solid #222;}
+.lihov ul { list-style:none; margin:0;padding:0;}
+
+.lihov a li {
+	padding:3px;
+	font-size:10px;
+        text-decoration: none;
+	border-bottom:1px solid #222;
+}
+.lihov a:hover li {
+        text-decoration: none;
+        background: #799301;
+        color: #000;
+}
+
+.hid { visibility: hidden; }
+.abu1 { background: #090909; }
+.abu2 { background: #111; }
